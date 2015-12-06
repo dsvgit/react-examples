@@ -1,2 +1,2 @@
-# webpack-simple
-webpack simple project
+# react-examples
+react examples
